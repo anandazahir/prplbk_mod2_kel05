@@ -6,7 +6,7 @@ const FooterContainer = styled.footer`
   bottom: 0;
   width: 100%;
   text-align: center;
-  margin-bottom: 15px;
+  margin-bottom: 3px;
 `;
 
 const TextMuted = styled.p`

@@ -40,7 +40,12 @@ function App() {
             submit
           </Button>
         </form>
-        <div style={{ fontSize: "1.5rem", fontFamily: "Poppins, sans-serif" }}>
+        <div
+          style={{
+            fontSize: "1.5rem",
+            fontFamily: "Poppins, sans-serif",
+          }}
+        >
           {message}
         </div>
         <div>
