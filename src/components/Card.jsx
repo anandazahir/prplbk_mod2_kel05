@@ -26,14 +26,14 @@ export default class Card extends Component {
             nama="Sugiyatmi"
             foto="src\assets\—Pngtree—female avatar vector icon_3725439.png"
             email="email2@gmail.com"
-            ig="https://www.instagram.com/ami_gyt09/"
+            ig="#"
           />
           <Square
             nim="2112012014014"
             nama="Hafizh Anjar Saputra"
             foto="src\assets\favpng_user-profile-male-avatar.png"
             email="email3@gmail.com"
-            ig="https://www.instagram.com/hafizhanjars/"
+            ig="#"
           />
         </Wrapper>
       </div>
