@@ -40,18 +40,19 @@ function App() {
             submit
           </Button>
         </form>
-        <div
-          style={{
-            fontSize: "1.5rem",
-            fontFamily: "Poppins, sans-serif",
-          }}
-        >
-          {message}
-        </div>
-        <div>
-          <Footer />
-        </div>
       </Wrapper>
+      <div
+        style={{
+          fontSize: "1.5rem",
+          fontFamily: "Poppins, sans-serif",
+          textAlign: "center",
+        }}
+      >
+        {message}
+      </div>
+      <div>
+        <Footer />
+      </div>
     </div>
   );
 }
