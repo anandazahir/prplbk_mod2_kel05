@@ -19,7 +19,7 @@ export default class Card extends Component {
             nama="Maulana Yusuf Arrasyid"
             foto="src\assets\intagram_picture8749873894798.jpg"
             email="email1@gmail.com"
-            ig="https://www.instagram.com/maulanaarr/"
+            ig="#"
           />
           <Square
             nim="21120120120014"
